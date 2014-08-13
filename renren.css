@@ -1,0 +1,28 @@
+/* reset */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+margin: 0; padding: 0;}
+body, button, input, select, textarea {font: 12px/1.5 tahoma,arial,宋体;}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;}
+address, cite, dfn, em, var {font-style: normal;}
+code, kbd, pre, samp {font-family: courier new,courier,monospace;}
+small {font-size: 12px;} 
+ul, ol {list-style: none; }/*outside:none;*/
+a{text-decoration: none;}
+a:hover {text-decoration: none;}
+sup {vertical-align: text-top;}
+sub {vertical-align: text-bottom;}
+legend {color: #000000;}
+fieldset, img {border: 0 none;}
+button, input, select, textarea {font-size: 100%;}
+table { border-collapse: collapse;border-spacing: 0;}
+
+.fl{float:left;}
+.fr{float:right;}
+.top-nav{height:35px; background-color: #363a4f;}
+.main1000{width:1000px; margin:0 auto;}
+.logo{background: url(logo.png);width:127px; height:35px; margin-left:0;}
+.logo,.sub-nav{display: inline-block;}
+.sub-nav li a{font:normal 12px/32px "Microsoft YaHei"; color:#fff;}
+.sub-nav li{margin-right:37px; float:left;}
+.avatar{background:url(avatar.png); width:20px; height:20px;margin-top:7px}
+.crystal-ball{background: url(bg.png); height:148px;}
